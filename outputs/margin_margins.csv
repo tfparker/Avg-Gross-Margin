@@ -1,0 +1,2 @@
+transaction_id,transaction_date,customer,product,region,revenue,cost_of_goods_sold,gross_margin_dollars,gross_margin_pct,flag_reasons
+TXN-1023,2026-04-28,Harbor Logistics,Premium Widget,West,17500,18400,-900,-0.0514,Negative gross margin dollars; Gross margin percentage below threshold
