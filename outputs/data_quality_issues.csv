@@ -1,0 +1,5 @@
+transaction_id,transaction_date,customer,product,region,issues
+TXN-1021,2026-04-22,Northstar Retail,Standard Widget,South,Revenue less than or equal to zero
+TXN-1022,2026-04-25,Blue Ridge Supply,Service Kit,Southeast,Missing cost_of_goods_sold
+TXN-1024,2026-04-30,Canyon Partners,Standard Widget,Southwest,Duplicate transaction_id; Cost of goods sold less than zero
+TXN-1024,2026-04-30,Canyon Partners,Standard Widget,Southwest,Duplicate transaction_id; Cost of goods sold less than zero
