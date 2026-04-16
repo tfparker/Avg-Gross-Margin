@@ -1,0 +1,18 @@
+summary_level,summary_value,transaction_count,total_revenue,total_cost_of_goods_sold,total_gross_margin_dollars,average_gross_margin_pct
+product,Premium Widget,8,155400,105100,50300,0.3024
+product,Service Kit,7,61700,43100,18400,0.2999
+product,Standard Widget,10,126150,65000,61150,0.4022
+customer,Blue Ridge Supply,5,72200,41200,31000,0.3366
+customer,Canyon Partners,6,87350,48900,38450,0.4537
+customer,Evergreen Wholesale,5,58100,38650,19450,0.3325
+customer,Harbor Logistics,5,69800,52800,17000,0.1993
+customer,Northstar Retail,5,58400,37950,20450,0.2608
+region,Midwest,5,58100,38650,19450,0.3325
+region,South,5,58400,37950,20450,0.2608
+region,Southeast,5,72200,41200,31000,0.3366
+region,Southwest,6,87350,48900,38450,0.4537
+region,West,5,69800,52800,17000,0.1993
+month,2026-01,5,75950,49050,26900,0.3530
+month,2026-02,5,75100,49800,25300,0.3370
+month,2026-03,5,78900,52650,26250,0.3316
+month,2026-04,10,149900,109100,40800,0.2625
