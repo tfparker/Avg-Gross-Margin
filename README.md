@@ -1,5 +1,6 @@
 README.md
 # Avg Gross Margin Analysis
+© 2026 Tripp Parkerr. All rights reserved
 
 ## Project Overview
 
